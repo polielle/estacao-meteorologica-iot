@@ -34,5 +34,9 @@ Desenvolver uma estação meteorológica de baixo custo utilizando tecnologias I
 ## 👨‍💻 Integrantes
 
 - João
+- Milena
 - Pedro
-- [Seu Nome]
+
+- ## 🔗 Dashboard
+
+Sistema integrado ao InfluxDB e Grafana para monitoramento em tempo real.
